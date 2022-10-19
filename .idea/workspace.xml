@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c9696c-92c0-4e2f-8b3a-b70caf48f691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workplaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/MainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/PizzaComposable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/PizzaComposee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/affichage_MainPizza.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part01/src/toString_partie1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Commande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/LigneDeCommande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/MainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/MainPizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/MenuPizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/PizzaComposable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/PizzaComposee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/affichage_MainPizza.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/affichage_MainPizzeria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/toString_partie1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_Atelier01_Part02/src/toString_partie2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/AJ_atelier01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/src/PizzaComposable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ/AJ_atelier01/src/PizzaComposee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ_EXAM/S06/S06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJ_EXAM/S06/hack1/hack1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BI/recom/recom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/AJ_seance06/AJ_seance06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/AJ_seance06/workshop06-solution/workshop06-solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/AJ_seance06/worshop03_solution/worshop03_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/AJ_seance07/AJ_seance07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/AJ_seance07/workshop07/workshop07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-client/target/classes/ClientThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop-10-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop1/workshop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/Sources.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_json_bind_jakarta_json_bind_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_json_jakarta_json_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_eclipse_yasson_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_3_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_3_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_3_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_3_0_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_3_0_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_3_0_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_3_0_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jakarta_json_module_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_grizzly2_http_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_binding_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/frontend/.idea/frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop10/Sources/introspect-api/introspect-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/git.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/domaine/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/domaine/QueryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/domaine/QueryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/server/ProxyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop11/src/main/java/server/QueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop12/.idea/workshop12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop2/workshop2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop3/workshop3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Workshops/workshop4/workshop4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java2/.idea/Java2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java2/AJ_seance1/AJ_seance1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Katelynn/premierTest/premierTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/Seance4/Seance4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/Math2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/ensembles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/Elt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/Ens1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/Ens1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/Ens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/Ens2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/EnsembleAbstrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/EnsembleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/MathException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/TestEnsemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/ensembles/src/TestEnsembleBis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/relations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/relations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/relations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/relations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math2/relations/relations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyweightTest/FlyweightTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlyweightTest/src/FlyweightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/src/AnalyseurDeTexte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/src/ConcreteObserverNbrMots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/src/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/Huffman/Huffman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/Revision/Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/SD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/SD2Rev/SD2Rev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex1/Ordonnancement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex1/Tache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex2/Badge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex2/ControleDAcces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex2/Employe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex3/LocationPatins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex3/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex4/ChoixOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex4/Etudiant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex4/Option.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex4/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex5/Doodle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex5/PlageHoraire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex5/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex6/GestionImpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex6/Impression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex6/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex7/Academie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex7/AcademieAvecDesistement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex7/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/bin/ex7/TestAvecDesistement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/sem1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex1/Ordonnancement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex1/Tache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex2/Badge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex2/ControleDAcces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex2/Employe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex3/LocationPatins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex4/ChoixOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex4/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex4/Option.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex5/Doodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex5/PlageHoraire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex6/GestionImpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex6/Impression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex7/Academie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex7/AcademieAvecDesistement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SD2/sem1/src/ex7/TestAvecDesistement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/SQL/ApplicationCentrale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/SQL/SQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/.idea/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Semaine 2 - Petite WebApp-20211004/solution/.idea/solution.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EnS3VkX5SZRzETlH0BoBA149Pt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex1" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c9696c-92c0-4e2f-8b3a-b70caf48f691" name="Changes" comment="" />
+      <created>1663229656569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663229656569</updated>
+      <workItem from="1663229658077" duration="73000" />
+      <workItem from="1663866224806" duration="603000" />
+      <workItem from="1663926822536" duration="18000" />
+      <workItem from="1664290898254" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
